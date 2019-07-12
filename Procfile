@@ -1,0 +1,1 @@
+web: gunicorn wikiprint.wsgi --log-file
