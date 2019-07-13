@@ -1,1 +1,1 @@
-web: gunicorn Wikiprint.wsgi:designweb --log-file -
+web: gunicorn wikiprint.wsgi --log-file -
