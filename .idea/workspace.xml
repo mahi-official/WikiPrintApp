@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wikiprint/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wikiprint/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wikiprint/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wikiprint/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wikiprint/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wikiprint/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/designweb/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/designweb/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
@@ -25,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wikiprint/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+            <state relative-caret-position="236">
+              <caret line="137" column="72" selection-start-line="137" selection-start-column="72" selection-end-line="137" selection-end-column="72" />
               <folding>
                 <element signature="e#308#317#0" expanded="true" />
               </folding>
@@ -37,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wikiprint/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="315">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#225#234#0" expanded="true" />
               </folding>
@@ -95,7 +96,6 @@
         <option value="$PROJECT_DIR$/designweb/views.py" />
         <option value="$PROJECT_DIR$/Wikiprint/local_settings.py" />
         <option value="$PROJECT_DIR$/designweb/urls.py" />
-        <option value="$PROJECT_DIR$/Wikiprint/wsgi.py" />
         <option value="$PROJECT_DIR$/../../../Demo/REST/index.js" />
         <option value="$PROJECT_DIR$/templates/contact.html" />
         <option value="$PROJECT_DIR$/Wikiprint/urls.py" />
@@ -105,6 +105,7 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/Wikiprint/views.py" />
         <option value="$PROJECT_DIR$/designweb/models.py" />
+        <option value="$PROJECT_DIR$/Wikiprint/wsgi.py" />
         <option value="$PROJECT_DIR$/Wikiprint/settings.py" />
       </list>
     </option>
@@ -183,12 +184,12 @@
       <workItem from="1562131555115" duration="5491000" />
       <workItem from="1562694781886" duration="106000" />
       <workItem from="1562918219136" duration="920000" />
-      <workItem from="1562931270658" duration="12883000" />
+      <workItem from="1562931270658" duration="13688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78022000" />
+    <option name="totallyTimeSpent" value="78827000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,6 +202,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24798928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -417,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikiprint/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="315">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#225#234#0" expanded="true" />
           </folding>
@@ -427,8 +429,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikiprint/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+        <state relative-caret-position="236">
+          <caret line="137" column="72" selection-start-line="137" selection-start-column="72" selection-end-line="137" selection-end-column="72" />
           <folding>
             <element signature="e#308#317#0" expanded="true" />
           </folding>
