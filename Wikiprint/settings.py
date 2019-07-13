@@ -26,7 +26,7 @@ SECRET_KEY = '9)#(vh_$2^-i(w3cgmg2%-!2pmtijy0s-rr$u*@8ar0dx1ht1i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost','.herokuapp.com', '*' ]
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost','wikiprint.herokuapp.com', '*', ]
 
 
 # Application definition
@@ -43,7 +43,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
-    # 'whitenoise.middleware.WhiteNoiseMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
