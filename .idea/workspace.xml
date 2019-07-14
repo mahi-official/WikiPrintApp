@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wikiprint/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+            <state relative-caret-position="198">
+              <caret line="137" selection-start-line="137" selection-end-line="137" />
               <folding>
                 <element signature="e#308#317#0" expanded="true" />
               </folding>
@@ -180,12 +180,12 @@
       <workItem from="1562918219136" duration="920000" />
       <workItem from="1562931270658" duration="22935000" />
       <workItem from="1563043815082" duration="349000" />
-      <workItem from="1563081786026" duration="12139000" />
+      <workItem from="1563081786026" duration="12266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100562000" />
+    <option name="totallyTimeSpent" value="100689000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikiprint/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+        <state relative-caret-position="198">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
           <folding>
             <element signature="e#308#317#0" expanded="true" />
           </folding>
