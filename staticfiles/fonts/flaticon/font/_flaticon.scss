@@ -1,0 +1,80 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 16/07/2019 17:51
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-3d:before { content: "\f100"; }
+.flaticon-cube:before { content: "\f101"; }
+.flaticon-window:before { content: "\f102"; }
+.flaticon-interior-design:before { content: "\f103"; }
+.flaticon-light-bulb:before { content: "\f104"; }
+.flaticon-light-bulb-1:before { content: "\f105"; }
+.flaticon-geometry:before { content: "\f106"; }
+.flaticon-vector:before { content: "\f107"; }
+.flaticon-box:before { content: "\f108"; }
+.flaticon-hired:before { content: "\f109"; }
+.flaticon-web:before { content: "\f10a"; }
+.flaticon-truck:before { content: "\f10b"; }
+.flaticon-card:before { content: "\f10c"; }
+.flaticon-customer-service:before { content: "\f10d"; }
+.flaticon-vector-1:before { content: "\f10e"; }
+.flaticon-roll:before { content: "\f10f"; }
+.flaticon-paper-roll:before { content: "\f110"; }
+.flaticon-paper-roll-1:before { content: "\f111"; }
+.flaticon-network:before { content: "\f112"; }
+.flaticon-chart:before { content: "\f113"; }
+    
+    $font-Flaticon-3d: "\f100";
+    $font-Flaticon-cube: "\f101";
+    $font-Flaticon-window: "\f102";
+    $font-Flaticon-interior-design: "\f103";
+    $font-Flaticon-light-bulb: "\f104";
+    $font-Flaticon-light-bulb-1: "\f105";
+    $font-Flaticon-geometry: "\f106";
+    $font-Flaticon-vector: "\f107";
+    $font-Flaticon-box: "\f108";
+    $font-Flaticon-hired: "\f109";
+    $font-Flaticon-web: "\f10a";
+    $font-Flaticon-truck: "\f10b";
+    $font-Flaticon-card: "\f10c";
+    $font-Flaticon-customer-service: "\f10d";
+    $font-Flaticon-vector-1: "\f10e";
+    $font-Flaticon-roll: "\f10f";
+    $font-Flaticon-paper-roll: "\f110";
+    $font-Flaticon-paper-roll-1: "\f111";
+    $font-Flaticon-network: "\f112";
+    $font-Flaticon-chart: "\f113";
